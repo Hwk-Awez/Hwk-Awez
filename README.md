@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohammad Awez Haider
 =============================================================================================================================================
 
-A Machine Learning Enthusiast
+A Machine Learning Engineer
 -----------------------------
 
 I hold a strong base in Computer Sciences and am currently learning Machine Learning Concepts with correlated mathematical studies. Implementing concepts from scratch for building solid foundation is my core strength alongside environment adaptation. I am open to any new Opportunities in the real world.
